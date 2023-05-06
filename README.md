@@ -1,4 +1,3 @@
-# PPNet
 
 ![image](Images/PPNet.png)
 
